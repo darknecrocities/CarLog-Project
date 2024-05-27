@@ -5,13 +5,6 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.List;
 
-/*
- * Carreon, Jaycen
- * Jimenez, Graciella
- * Marquez, Jian Kalel
- * Parejas, Arron
- */
-
 class Car {
     private int yearModel;
     private String model;
